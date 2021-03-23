@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My discord - Danil.T#9934 <br>
-My telegram - (telegram)[https://bit.ly/madaspe_telegram]
+My telegram - https://bit.ly/madaspe_telegram
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=madaspe&show_icons=true)
 
