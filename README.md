@@ -1,9 +1,12 @@
-### Hi there 👋
+## Danil Treshchev
 
-My discord - Danil.T#9934 <br>
-My telegram - https://bit.ly/madaspe_telegram
+###👋 Welcome to my Github!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=madaspe&show_icons=true)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=madaspe&theme=calm)](https://github.com/Madaspe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madaspe&layout=compact&langs_count=12)](https://github-readme-stats.vercel.app/api/top-langs/?username=madaspe&layout=compact&langs_count=12)
+[![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=madaspe&show_icons=true&theme=dracula)](https://github.com/Madaspe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madaspe&layout=compact&langs_count=8&theme=dracula)](https://github.com/Madaspe)
 
+### 🌱 I’m currently learning
+- Modern C++, Python, JS
+- NLU
