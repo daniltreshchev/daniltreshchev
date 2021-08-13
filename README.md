@@ -10,7 +10,7 @@ danil = {
     "name": "Danil",
     "surname": "Treshchev",
 
-    "code_languages": ['python', 'go', 'js']
+    "code_languages": ['python', 'go', 'js'],
     "tools": ["flask", "fastApi", "nodejs", "postgresql", "sql", "linux", "docker", "git", "express", "redis", "mongodb", "asyncio", "aiohttp"],
 
     "currently_leanring": ["modern c++", "nlu"],
