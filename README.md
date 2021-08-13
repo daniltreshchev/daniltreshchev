@@ -14,5 +14,7 @@ danil = {
     "tools": ["flask", "fastApi", "nodejs", "postgresql", "sql", "linux", "docker", "git", "express", "redis", "mongodb", "asyncio", "aiohttp"],
 
     "currently_leanring": ["modern c++", "nlu"],
+    
+    "social": ["t.me/newmadaspe", "discord:Magiste#9934"]
 }
 ```
