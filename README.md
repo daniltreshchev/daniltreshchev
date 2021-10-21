@@ -10,10 +10,10 @@ danil = {
     "name": "Danil",
     "surname": "Treshchev",
 
-    "code_languages": ['python', 'go', 'js'],
-    "tools": ["flask", "fastApi", "nodejs", "postgresql", "sql", "linux", "docker", "git", "express", "redis", "mongodb", "asyncio", "aiohttp"],
+    "code_languages": ['python'],
+    "tools": ["flask", "fastApi", "postgresql", "sql", "linux", "docker", "git", "redis", "mongodb", "asyncio", "aiohttp"],
 
-    "currently_leanring": ["modern c++", "nlu"],
+    "currently_leanring": ["F#"],
     
     "social": ["t.me/newmadaspe", "discord:Magiste#9934"]
 }
