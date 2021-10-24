@@ -13,7 +13,7 @@ danil = {
     "code_languages": ['python'],
     "tools": ["flask", "fastApi", "postgresql", "sql", "linux", "docker", "git", "redis", "mongodb", "asyncio", "aiohttp"],
 
-    "currently_leanring": ["F#"],
+    "currently_leanring": ["F#", "Elixir"],
     
     "social": ["t.me/newmadaspe", "discord:Magiste#9934"]
 }
