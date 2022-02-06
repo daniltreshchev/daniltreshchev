@@ -5,11 +5,9 @@ danil = {
     "name": "Danil",
     "surname": "Treshchev",
 
-    "code_languages": ['python'],
-    "tools": ["flask", "fastApi", "postgresql", "sql", "linux", "docker", "git", "redis", "mongodb", "asyncio", "aiohttp"],
-
-    "currently_leanring": ["F#", "Elixir"],
+    "code_languages": ['elixir'],
+    "tools": ["postgresql", "sql", "linux", "docker", "git", "redis", "mongodb", "phoenix", "ecto", "OTP"],
     
-    "social": ["t.me/newmadaspe", "discord:Magiste#9934"]
+    "social": ["t.me/newmadaspe", "discord:Faik#9934"]
 }
 ```
