@@ -14,30 +14,6 @@ danil = {
 
 
 
-
-### Hi there 👋
-
-## I'm Aditya Gundecha.
-
-### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; A developer turned DevOps Engineer with a passion for automating everything
-- 👨‍👦‍👦 &nbsp; Efficient team leader with a knack of solving critical business problems 
-
-
-<br>
-
-
-
-
- 
-
-
-
-
-
-
-
 <p  align="center">
 
                   
