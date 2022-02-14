@@ -5,7 +5,7 @@ person = %{
     name: "Danil",
     surname: "Treshchev",
 
-    code_languages: ['elixir'],
+    code_languages: ["elixir"],
     tools: [
         "postgresql",
         "sql",
