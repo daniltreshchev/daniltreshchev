@@ -4,20 +4,72 @@
 person = %{
     name: "Danil",
     surname: "Treshchev",
+    country: "Russia"
+    os: "macos"
+    tools: %{
+      code_languages: [
+        elixir: %{
+          frameworks: [
+            "Phoenix"
+          ]
+          knowledge: [
+            "Basics",
+            "OTP",
+            "Ecto",
+            "Testing"
+          ]
+        }
+      ],
 
-    code_languages: ["elixir"],
-    tools: [
-        "postgresql",
-        "sql",
-        "linux",
+      programs_for_coding: [
+        "vscode"
+      ],
+
+      databases: %{
+        sql: [
+          "postgres",
+          "mariadb"
+        ]
+        no_sql: [
+          "redis",
+          "mongo",
+          "couchdb"
+        ]
+      },
+
+      message_brokers: [
+        "rebbitmq"
+      ],
+
+      ci_tools: [
+        "drone.io",
+        "jenkins ci",
+        "travis ci",
+        "gitlab ci",
+        "github actions"
+      ],
+
+      container_tools: [
         "docker",
-        "git",
-        "redis",
-        "mongodb",
-        "phoenix",
-        "ecto",
-        "OTP"
-    ],
+        "podman"
+      ],
+
+      container_orchestration_tools: [
+        "nomad",
+        "k8s"
+      ],
+
+      config_managers: [
+        "ansible"
+      ],
+
+      monitoring_tools: [
+        "datalog",
+        "sentry",
+        "grafana",
+        "prometheus"
+      ]
+    },
     
     socials: %{
         telegram: "http://t.me/newmadaspe",
