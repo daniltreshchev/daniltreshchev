@@ -29,7 +29,7 @@ person = %{
         sql: [
           "postgres",
           "mariadb"
-        ]
+        ],
         no_sql: [
           "redis",
           "mongo",
