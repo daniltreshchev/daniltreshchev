@@ -4,8 +4,8 @@
 person = %{
     name: "Danil",
     surname: "Treshchev",
-    country: "Russia"
-    os: "macos"
+    country: "Russia",
+    os: "macos",
     tools: %{
       code_languages: [
         elixir: %{
