@@ -89,7 +89,7 @@ person = %{
   
 <table border="0" align="center">
 <tr border="0">
-<td width="33%" align="center">
+<td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=madaspe&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
@@ -99,13 +99,10 @@ person = %{
   
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=madaspe&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
-<td  width="33%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Madaspe&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true">
-</td>
 </tr>
 </table>
 
@@ -138,7 +135,9 @@ person = %{
  <hr>
 
 
-
+<p align="center" >   
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Madaspe&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true" />  
+</p>
 
 
 
