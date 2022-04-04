@@ -73,7 +73,6 @@ person = %{
     
     socials: %{
         telegram: "http://t.me/newmadaspe",
-        discord: "Faik#9934"
     }
 }
 ```
