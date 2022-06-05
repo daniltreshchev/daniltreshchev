@@ -6,6 +6,8 @@ person = %{
     surname: "Treshchev",
     country: "Russia",
     os: "macos",
+    current_work: "Вайлдберриз",
+    position: "Devops Engineer",
     tools: %{
       code_languages: [
         elixir: %{
