@@ -17,13 +17,13 @@ spec:
     city: Ufa
 
   job:
-    title: "Devops Engineer"
-    location: "Wildberries"
+    title: "SRE Engineer"
+    location: "T-Bank"
   
   languages:
     - golang
     - python
     - bash
   
-  editor: VSCode
+  editor: Helix
 ```
