@@ -12,14 +12,6 @@ spec:
   social:
     telegram: "https://t.me/DanilTreshchev"
 
-  location:
-    country: Russia
-    city: Ufa
-
-  job:
-    title: "SRE Engineer"
-    location: "T-Bank"
-  
   languages:
     - golang
     - python
